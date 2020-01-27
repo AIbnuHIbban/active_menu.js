@@ -7,3 +7,19 @@
   </p>
   <p>
 </div>
+# How to Use?
+
+**Online**
+
+    https://aibnuhibban.github.io/active_menu.js/active_menu.js
+
+ - Copy the link above
+ - Paste to your code in `<script src="{Paste in here}"></script>`
+
+**Local**
+
+ - Clone this Repository
+ - Copy ***active_menu.js*** into your local project
+
+
+## Thanks for using :)
