@@ -1,0 +1,1 @@
+$(document).ready((function(){var a=$("ul.nav li.nav-item"),t=$(location).attr("href");a.each((function(a){var n=$(this).find("a").attr("href");$("ul.nav li.nav-item")[1];n===t&&(console.log(n),$(this).addClass("active"))}))}));
